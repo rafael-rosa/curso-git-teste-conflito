@@ -1,0 +1,1 @@
+Crie um repositório local e acesse por duas abas diferentes do terminal, em duas branches diferentes. Faça diversas alterações em cada uma, jogue as alterações para a master <faca o merge das branches> e veja quais as dificuldades.
